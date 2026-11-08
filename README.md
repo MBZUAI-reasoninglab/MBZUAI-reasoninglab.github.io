@@ -1,36 +1,34 @@
-# Updating this website
+# Reasoning and Decision-Making Lab Reading Groups
 
-This is a static GitHub Pages website. No build step is required.
+This repository hosts the reading-group website of the Reasoning and Decision-Making Lab at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), led by Assistant Professor Junpei Komiyama.
 
-## Meetings
+Website: [https://mbzuai-reasoninglab.github.io/](https://mbzuai-reasoninglab.github.io/)
 
-Edit `data/schedule.csv`. Each meeting is one row. Keep the header row unchanged.
+## About
 
-- Use `YYYY-MM-DD` for dates.
-- Use `practice` or `theory` in the `group` column.
-- Leave optional fields blank when they should not appear.
-- Enclose text containing commas in double quotes.
-- Past meetings move into the archive automatically.
+The reading groups extend and accompany the research conducted by the lab through exposition, presentation, and discussion. Meetings cover theoretical and practical topics connected to the lab’s research interests in reasoning and decision-making.
 
-The CSV can be edited with Excel, Google Sheets, LibreOffice Calc, or a text
-editor. If using a spreadsheet, export it as a comma-separated CSV before
-uploading it again.
+Topics are intentionally broad. Any subject aligned with the lab’s research and of interest to its members may be presented and discussed.
+
+## Reading groups
+
+### Theory Reading Group
+
+The Theory Reading Group focuses on the mathematical and conceptual foundations of research related to reasoning and decision-making.
+
+**Regular meeting:** Wednesdays, 2:00–3:00 PM GST (UTC+4)
+
+### Practice Group
+
+The Practice Group focuses on the practical and experimental aspects of research, including methods, implementations, evaluation, and empirical results.
+
+**Regular meeting:** Fridays, 2:00–3:00 PM GST (UTC+4)
+
+## Participation
+
+The meetings are open to anyone interested in the research topics or in learning more about the group. Participants are welcome to present a topic, contribute to the discussion, ask questions, or simply attend and listen.
 
 ## Organizers
 
-Edit `data/organizers.csv`. Use `practice`, `theory`, `practice|theory`, or `all`
-in the `groups` column.
-
-## Participants
-
-Edit `data/participants.csv`. Each participant is one row. Use `practice`,
-`theory`, or `practice|theory` in the `groups` column. Add or delete a row to
-update the participant lists; the Practice and Theory pages update automatically.
-
-The Theory Reading Group meets Wednesdays from 2:00–3:00 PM, and the Practice
-Group meets Fridays from 2:00–3:00 PM. All times are GST (UTC+4).
-
-## Publishing
-
-Upload all files in this folder—including `.nojekyll`—to the repository root.
-Configure GitHub Pages to deploy from the default branch and `/ (root)`.
+- [Junpei Komiyama](mailto:Junpei.Komiyama@mbzuai.ac.ae), Assistant Professor at MBZUAI
+- [Artem Perepelitsyn](mailto:Artem.Perepelitsyn@mbzuai.ac.ae), MSc student at MBZUAI
