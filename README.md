@@ -1,6 +1,6 @@
 # Reasoning and Decision-Making Lab Reading Groups
 
-This repository hosts the reading-group website of the Reasoning and Decision-Making Lab at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), led by Assistant Professor Junpei Komiyama.
+This repository hosts the reading-group website of the Reasoning and Decision-Making Lab at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), led by [Assistant Professor Junpei Komiyama](https://jkomiyama.github.io/).
 
 Website: [https://mbzuai-reasoninglab.github.io/](https://mbzuai-reasoninglab.github.io/)
 
